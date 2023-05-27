@@ -1,11 +1,11 @@
 # COBRA-CRACKER
-$ apt Update
+$ apt update
 
-$ apt Install Python
+$ apt install python
 
-$ apt Install Python2
+$ apt install python2
 
-$ pkg Install Python2
+$ pkg install python2
 
 $ pkg install git
 
