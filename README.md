@@ -9,7 +9,7 @@ $ pkg Install Python2
 
 $ pkg install git
 
-$ git colen https://github.com/HACKER-XYZ/COBRA-CRACKER
+$ git clone https://github.com/HACKER-XYZ/COBRA-CRACKER
 
 $ cd COBRA-CRACKER
 
